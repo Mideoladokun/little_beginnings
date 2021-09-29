@@ -1,2 +1,3 @@
-# little_beginnings
-Starting a professional career
+# Little_Beginnings
+Starting a Professional Career
+Exploring GitHub
